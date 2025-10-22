@@ -32,7 +32,6 @@ Este repositório tem caráter demonstrativo e serve apenas como portfólio téc
 Todo o conteúdo conceitual e tecnológico relacionado ao Sala Cirúrgica VR é de uso restrito e está em desenvolvimento para possível uso comercial e acadêmico.
 
 # Autor
-Igor Oliveira.
-Desenvolvedor Unity, C# | Foco em Realidade Virtual.
+Igor Oliveira | Desenvolvedor Unity, C# | Foco em Realidade Virtual.
 📧 igolsilva@hotmail.com
 🌐 [adicionar LinkedIn]
