@@ -20,7 +20,9 @@ Este repositório não contém o projeto completo, mas apresenta:
 O conteúdo foi selecionado para mostrar competências técnicas e conceituais, sem expor o código-fonte integral por motivos de propriedade intelectual.
 
 # Demonstração
-Colocar vídeos e imagens.
+[![Assista no YouTube](https://img.youtube.com/vi/Ou9sxvCSERw/maxresdefault.jpg)](https://youtu.be/Ou9sxvCSERw)
+
+Clique na imagem acima para assistir à demonstração completa do projeto Sala Cirúrgica VR no YouTube.
 
 # Próximos Passos
 - Expansão do projeto para outros procedimentos hospitalares;
