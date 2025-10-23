@@ -36,4 +36,4 @@ Todo o conteúdo conceitual e tecnológico relacionado ao Sala Cirúrgica VR é 
 # Autor
 Igor Oliveira | Desenvolvedor Unity, C# | Foco em Realidade Virtual.
 📧 igolsilva@hotmail.com
-🌐 [adicionar LinkedIn]
+🌐 https://www.linkedin.com/in/igor-oliveira-206516234/
