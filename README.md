@@ -1,4 +1,5 @@
 # SalaCirurgicaVR-Showcase
+**Simulação em Realidade Virtual voltada à segurança do paciente e treinamento de enfermagem**
 Showcase do projeto Sala Cirúrgica VR, uma simulação interativa em realidade virtual desenvolvida no Unity com foco em segurança do paciente e treinamento de enfermagem. Este repositório apresenta exemplos de scripts e sistemas desenvolvidos, além de imagens e vídeos demonstrativos do ambiente.
 
 # Contexto
@@ -16,8 +17,12 @@ Através da realidade virtual, o objetivo é proporcionar imersão, interativida
 Este repositório não contém o projeto completo, mas apresenta:
 - Scripts exemplificando interações em VR, gestão de tarefas e eventos em ambiente cirúrgico;
 - Imagens e vídeos demonstrativos do ambiente e da simulação;
-- Documentação resumida sobre a proposta e arquitetura técnica;
+- Documentação resumida sobre a proposta e a arquitetura técnica;
 O conteúdo foi selecionado para mostrar competências técnicas e conceituais, sem expor o código-fonte integral por motivos de propriedade intelectual.
+
+## Exemplos de Código
+
+- [Enigmas.cs](Scripts/Enigmas.cs): Gerencia a progressão das cenas, tarefas e feedbacks hápticos na simulação VR.
 
 # Demonstração
 [![Assista no YouTube](https://img.youtube.com/vi/Ou9sxvCSERw/maxresdefault.jpg)](https://youtu.be/Ou9sxvCSERw)
